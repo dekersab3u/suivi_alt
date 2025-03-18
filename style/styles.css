@@ -37,8 +37,13 @@ nav ul li a:hover {
 }
 
 main {
-    padding: 12vh 2vw 0 2vw;
+    padding: 20vh 2vw 0 2vw;
     transition: opacity 0.5s;
+}
+
+#home p {
+    text-align:justify;
+    margin:5vh 30vw 2vh 30vw;
 }
 
 h1 {
